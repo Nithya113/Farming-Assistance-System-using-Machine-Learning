@@ -1,0 +1,38 @@
+{% extends 'layout.html' %} {% block body %}
+
+<style>
+  .mt-0 {
+    margin-top: 50 !important;
+  }
+  .card-body {
+    background-color: #f5f1f1;
+    border: 3px solid #f1b24a;
+    color: rgb(21, 59, 21);
+    border-radius: 15px 50px;
+  }
+  .container{
+    margin: 20px auto;
+  }
+
+</style>
+<div class="background">
+  <br /><br />
+  <div class="container-all">
+
+    <div class="container py-2 mx-auto my-50 h-10" style="margin: 9rem"><br><br>
+      <div class="row">
+        <div class="col-sm py-2 py-md-3">
+          <div class="card card-body" style="justify-content: center">
+            <p
+              class="text-center"
+              style="color: rgb(21, 59, 21); font-size: 18px"
+            >
+              {{ recommendation }}
+            </p>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
