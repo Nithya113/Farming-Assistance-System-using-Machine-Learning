@@ -17,6 +17,7 @@
 
 # Plant Prediction
 ## Input
-![WhatsApp Image 2023-06-21 at 7 52 20 PM (2)](https://github.com/Nithya113/Agro-assist/assets/104290319/23ce721e-4630-47d1-88a1-f5856b541309)
+![WhatsApp Image 2023-06-21 at 7 52 20 PM (3)](https://github.com/Nithya113/Farming-Assistance-System-using-Machine-Learning/assets/104290319/ac478491-d550-4636-b2b3-4fd05a6b3880)
+
 ## Output
 ![WhatsApp Image 2023-06-21 at 7 52 20 PM (4)](https://github.com/Nithya113/Agro-assist/assets/104290319/076f6252-bdd5-4d56-b961-5a7f0c0a3ad7)
